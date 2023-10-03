@@ -1,0 +1,125 @@
+2023-09-05 08:22:37,568 : DEBUG : utilities.BaseClass :A debug statement is executed
+2023-09-05 08:22:37,568 : INFO : utilities.BaseClass :Information statement
+2023-09-05 08:22:37,568 : DEBUG : utilities.BaseClass :A debug statement is executed
+2023-09-05 08:22:37,568 : WARNING : utilities.BaseClass :Something is in warning mode
+2023-09-05 08:22:37,568 : ERROR : utilities.BaseClass :A Major error has happened
+2023-09-05 08:22:37,568 : CRITICAL : utilities.BaseClass :Critical issue
+2023-09-05 08:25:40,715 : DEBUG : utilities.BaseClass :A debug statement is executed
+2023-09-05 08:25:40,715 : INFO : utilities.BaseClass :Information statement
+2023-09-05 08:25:40,715 : DEBUG : utilities.BaseClass :A debug statement is executed
+2023-09-05 08:25:40,715 : WARNING : utilities.BaseClass :Something is in warning mode
+2023-09-05 08:25:40,715 : ERROR : utilities.BaseClass :A Major error has happened
+2023-09-05 08:25:40,715 : CRITICAL : utilities.BaseClass :Critical issue
+2023-09-05 08:30:31,937 : INFO : utilities.BaseClass :Information statement
+2023-09-05 08:30:31,937 : WARNING : utilities.BaseClass :Something is in warning mode
+2023-09-05 08:30:31,937 : ERROR : utilities.BaseClass :A Major error has happened
+2023-09-05 08:30:31,937 : CRITICAL : utilities.BaseClass :Critical issue
+2023-09-05 08:43:04,648 : INFO : test_e2e :getting all the product titles
+2023-09-05 08:43:04,715 : INFO : test_e2e :iphone X
+2023-09-05 08:43:04,731 : INFO : test_e2e :Samsung Note 8
+2023-09-05 08:43:04,757 : INFO : test_e2e :Nokia Edge
+2023-09-05 08:43:04,775 : INFO : test_e2e :Blackberry
+2023-09-05 08:43:15,655 : INFO : test_e2e :Text received from application is Success!
+2023-09-05 09:12:16,800 : INFO : test_formSubmission :First name is: Rahul
+2023-09-05 09:12:23,768 : INFO : test_formSubmission :First name is: Andrea
+2023-09-05 09:12:23,768 : INFO : test_formSubmission :First name is: Andrea
+2023-09-05 09:12:38,608 : INFO : test_e2e :getting all the product titles
+2023-09-05 09:12:38,635 : INFO : test_e2e :iphone X
+2023-09-05 09:12:38,646 : INFO : test_e2e :Samsung Note 8
+2023-09-05 09:12:38,654 : INFO : test_e2e :Nokia Edge
+2023-09-05 09:12:38,670 : INFO : test_e2e :Blackberry
+2023-09-05 09:12:49,431 : INFO : test_e2e :Text received from application is Success!
+2023-09-05 09:24:48,472 : INFO : test_formSubmission :First name is: Rahul
+2023-09-05 09:24:54,692 : INFO : test_formSubmission :First name is: Andrea
+2023-09-05 09:24:54,692 : INFO : test_formSubmission :First name is: Andrea
+2023-09-05 09:25:10,370 : INFO : test_e2e :getting all the product titles
+2023-09-05 09:25:10,430 : INFO : test_e2e :iphone X
+2023-09-05 09:25:10,454 : INFO : test_e2e :Samsung Note 8
+2023-09-05 09:25:10,470 : INFO : test_e2e :Nokia Edge
+2023-09-05 09:25:10,495 : INFO : test_e2e :Blackberry
+2023-09-05 09:25:21,364 : INFO : test_e2e :Text received from application is Success!
+2023-09-05 10:16:53,209 : INFO : test_formSubmission :First name is: Rahul
+2023-09-05 10:16:59,124 : INFO : test_formSubmission :First name is: Andrea
+2023-09-05 10:16:59,124 : INFO : test_formSubmission :First name is: Andrea
+2023-09-05 10:17:12,752 : INFO : test_e2e :getting all the product titles
+2023-09-05 10:17:12,777 : INFO : test_e2e :iphone X
+2023-09-05 10:17:12,788 : INFO : test_e2e :Samsung Note 8
+2023-09-05 10:17:12,802 : INFO : test_e2e :Nokia Edge
+2023-09-05 10:17:12,814 : INFO : test_e2e :Blackberry
+2023-09-05 10:17:23,382 : INFO : test_e2e :Text received from application is Success!
+2023-09-05 10:23:15,530 : INFO : test_formSubmission :First name is: Rahul
+2023-09-05 10:23:21,617 : INFO : test_formSubmission :First name is: Andrea
+2023-09-05 10:23:21,617 : INFO : test_formSubmission :First name is: Andrea
+2023-09-05 10:23:35,562 : INFO : test_e2e :getting all the product titles
+2023-09-05 10:23:35,588 : INFO : test_e2e :iphone X
+2023-09-05 10:23:35,596 : INFO : test_e2e :Samsung Note 8
+2023-09-05 10:23:35,602 : INFO : test_e2e :Nokia Edge
+2023-09-05 10:23:35,608 : INFO : test_e2e :Blackberry
+2023-09-05 10:23:46,178 : INFO : test_e2e :Text received from application is Success!
+2023-09-28 09:37:09,074 : INFO : test_formSubmission :First name is: Rahul
+2023-09-28 09:37:15,839 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 09:37:15,839 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 09:43:20,532 : INFO : test_formSubmission :First name is: Rahul
+2023-09-28 09:43:27,221 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 09:43:27,221 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 09:43:45,599 : INFO : test_e2e :getting all the product titles
+2023-09-28 09:43:45,621 : INFO : test_e2e :iphone X
+2023-09-28 09:43:45,630 : INFO : test_e2e :Samsung Note 8
+2023-09-28 09:43:45,635 : INFO : test_e2e :Nokia Edge
+2023-09-28 09:43:45,641 : INFO : test_e2e :Blackberry
+2023-09-28 09:43:56,239 : INFO : test_e2e :Text received from application is Success!
+2023-09-28 10:21:02,828 : INFO : test_formSubmission :First name is: Rahul
+2023-09-28 10:21:08,984 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 10:21:08,984 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 10:21:26,599 : INFO : test_e2e :getting all the product titles
+2023-09-28 10:21:26,630 : INFO : test_e2e :iphone X
+2023-09-28 10:21:26,640 : INFO : test_e2e :Samsung Note 8
+2023-09-28 10:21:26,646 : INFO : test_e2e :Nokia Edge
+2023-09-28 10:21:26,659 : INFO : test_e2e :Blackberry
+2023-09-28 10:21:37,223 : INFO : test_e2e :Text received from application is Success!
+2023-09-28 10:32:34,291 : INFO : test_formSubmission :First name is: Rahul
+2023-09-28 10:32:40,866 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 10:32:40,866 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 10:33:01,637 : INFO : test_e2e :getting all the product titles
+2023-09-28 10:33:01,666 : INFO : test_e2e :iphone X
+2023-09-28 10:33:01,678 : INFO : test_e2e :Samsung Note 8
+2023-09-28 10:33:01,685 : INFO : test_e2e :Nokia Edge
+2023-09-28 10:33:01,691 : INFO : test_e2e :Blackberry
+2023-09-28 10:33:12,177 : INFO : test_e2e :Text received from application is Success!
+2023-09-28 11:07:01,966 : INFO : test_formSubmission :First name is: Rahul
+2023-09-28 11:07:08,632 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 11:07:08,632 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 11:07:24,884 : INFO : test_e2e :getting all the product titles
+2023-09-28 11:07:24,913 : INFO : test_e2e :iphone X
+2023-09-28 11:07:24,929 : INFO : test_e2e :Samsung Note 8
+2023-09-28 11:07:24,941 : INFO : test_e2e :Nokia Edge
+2023-09-28 11:07:24,952 : INFO : test_e2e :Blackberry
+2023-09-28 11:07:35,487 : INFO : test_e2e :Text received from application is Success!
+2023-09-28 11:52:02,704 : INFO : test_formSubmission :First name is: Rahul
+2023-09-28 11:52:09,462 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 11:52:09,462 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 11:52:25,337 : INFO : test_e2e :getting all the product titles
+2023-09-28 11:52:25,370 : INFO : test_e2e :iphone X
+2023-09-28 11:52:25,382 : INFO : test_e2e :Samsung Note 8
+2023-09-28 11:52:25,393 : INFO : test_e2e :Nokia Edge
+2023-09-28 11:52:25,404 : INFO : test_e2e :Blackberry
+2023-09-28 11:52:35,899 : INFO : test_e2e :Text received from application is Success!
+2023-09-28 14:03:44,284 : INFO : test_formSubmission :First name is: Rahul
+2023-09-28 14:03:51,006 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 14:03:51,006 : INFO : test_formSubmission :First name is: Andrea
+2023-09-28 14:04:09,037 : INFO : test_e2e :getting all the product titles
+2023-09-28 14:04:09,067 : INFO : test_e2e :iphone X
+2023-09-28 14:04:09,077 : INFO : test_e2e :Samsung Note 8
+2023-09-28 14:04:09,088 : INFO : test_e2e :Nokia Edge
+2023-09-28 14:04:09,100 : INFO : test_e2e :Blackberry
+2023-09-28 14:04:19,731 : INFO : test_e2e :Text received from application is Success!
+2023-10-02 14:03:39,479 : INFO : test_formSubmission :First name is: Rahul
+2023-10-02 14:03:46,845 : INFO : test_formSubmission :First name is: Andrea
+2023-10-02 14:03:46,845 : INFO : test_formSubmission :First name is: Andrea
+2023-10-02 14:26:50,821 : INFO : test_formSubmission :First name is: Rahul
+2023-10-02 14:26:52,446 : INFO : test_formSubmission :First name is: Andrea
+2023-10-02 14:26:52,446 : INFO : test_formSubmission :First name is: Andrea
+2023-10-02 14:28:40,308 : INFO : test_formSubmission :First name is: Rahul
+2023-10-02 14:28:47,773 : INFO : test_formSubmission :First name is: Andrea
+2023-10-02 14:28:47,773 : INFO : test_formSubmission :First name is: Andrea
+2023-10-02 14:45:37,833 : INFO : test_formSubmission :First name is: Laura
